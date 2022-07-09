@@ -9,7 +9,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/kabir0104k/WhatsBot
-cd wabot-aq
+cd WhatsBot
 npm install
 npm update
 ```
